@@ -13,4 +13,3 @@ func SumOfSquares(n int) int {
 func Difference(n int) int {
 	return SquareOfSum(n) - SumOfSquares(n)
 }
-z
